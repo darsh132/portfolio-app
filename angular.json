@@ -26,11 +26,11 @@
             }
           },
           "options": {
-	    "baseHref": "/portfolio/",
+	    "baseHref": "/portfolio-app/",
             "assets": ["src/assets"],
             "index": "src/index.html",
             "browser": "src/main.ts",
-            "outputPath": "dist/portfolio",
+            "outputPath": "dist/portfolio-app",
             "polyfills": ["zone.js"],
             "scripts": [],
             "styles": ["src/global_styles.css"],
